@@ -5,6 +5,7 @@ These objectives must be fulfilled by all architectures and demos
 [discussion of what this looks like] 
 - All architectures are modular
 - All architectures are product and platform agnostic  
+this includes automation tooling
 [F5 specific products on specific platforms show up in the demos3]
 - All Solution Engineers are able to run all demos
 - Application / IT Service Architectures must be relevant to customers
