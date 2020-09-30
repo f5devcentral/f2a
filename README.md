@@ -2,3 +2,35 @@
 
 this is where the story would start  
 there may be additional documents that elaborate on details of the story
+
+[Accelerate](https://itrevolution.com/book/accelerate/) by Nicole Forsgren, Jez Humble, and Gene Kim
+
+Synthesize with other lenses on IT Service Delivery and Lean business process management  
+
+- [Deming Cycles](https://en.wikipedia.org/wiki/PDCA)
+- [DevOps Cycles]()
+- [ITSM Continuous Improvement](https://en.wikipedia.org/wiki/IT_service_managemen)
+- [OODA](https://en.wikipedia.org/wiki/OODA_loop)  
+
+The OODA loop describes the day-to-day of operations. Speed is always of paramount concern. If you can respond to changes in market conditions and customer wishes faster than your competitor you have an advantage. If you can change and improve your security posture faster than malicious actors can fabricate new attacks, you are more secure. While speed alone is not a silver bullet, without expedicious time to value the best application features and security solutions are for naught.
+## Metrics of Speed
+It is important to be clear what we mean by "speed". We do not mean speed at the expense of exceptional customer experience. We mean that organizations see the following measurable results:
+- Deployment frequency is measured in times per day  
+How often your company can deploy updates to your IT services
+- Mean Time to Resolution (MTTR) is measured in minutes or seconds  
+How quickly can you restore full service if a failure occurs
+- Mean Time between Failure (MTBF)  
+How often do failures occur
+- Lead Time to Value  
+How quickly can a new feature or capability be delivered
+## Practices of Speed
+- Version control of code and configuration
+- Deployment automation
+- Test automation
+- Shift left on security  
+[What does this mean]Include security at the beginning of your process
+- Loosely coupled architecture
+- Pro-active notification
+## Implementation Concerns
+Turn Brownfield into Greenfield  
+[What does this mean?]
