@@ -44,6 +44,9 @@ How quickly can a new feature or capability be delivered
 [What does this mean]Include security at the beginning of your process
 - Loosely coupled architecture
 - Pro-active notification
+## Use Cases
+- Update component to a new version
+- Update component configuration to a new version
 ## Implementation Concerns
 Turn Brownfield into Greenfield  
 [What does this mean?]
