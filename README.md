@@ -32,9 +32,9 @@ It is important to be clear what we mean by "speed". We do not mean speed at the
 How often your company can deploy updates to your IT services
 - Mean Time to Resolution (MTTR) is measured in minutes or seconds  
 How quickly can you restore full service if a failure occurs
-- Mean Time between Failure (MTBF)  
+- Mean Time between Failure (MTBF) is measured in weeks or months or years  
 How often do failures occur
-- Lead Time to Value  
+- Lead Time to Value is measured in hours or days  
 How quickly can a new feature or capability be delivered
 ## Practices of Speed
 - Version control of code and configuration
