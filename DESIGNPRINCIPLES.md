@@ -1,10 +1,16 @@
-## Core Design Principles
+## Audience
+- NetOps Engineers
+- Application Developers
+- SecOps Engineers
 These objectives must be fulfilled by all architectures and demos
-- All demos connect to Architectures connect to the Story
-- All demos are modular  
-[discussion of what this looks like] 
+- All demos connect to Architectures
+- All Architectures connect to the Story
+- All demos are modular and open source
+  - adhere to the demo [design contract](demodesigncontract.md)
+  - 
+[discussion of what this looks like]
 - All architectures are modular
-- All architectures are product and platform agnostic  
+- All architectures are product and platform agnostic
 this includes automation tooling
 [F5 specific products on specific platforms show up in the demos3]
 - All Solution Engineers are able to run all demos
@@ -15,6 +21,6 @@ this includes automation tooling
   - test automation
   - shift left on security
   - loosely coupled architecture
-  - pro-active notification
+  - pro-active notification / telemetry
 ## North Star Design Principles
 - Customers are able to run all demos

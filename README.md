@@ -22,7 +22,7 @@ Synthesize with other lenses on IT Service Delivery and Lean business process ma
 
 - [Deming Cycles](https://en.wikipedia.org/wiki/PDCA)
 - [DevOps Cycles]()
-- [ITSM Continuous Improvement](https://en.wikipedia.org/wiki/IT_service_managemen)
+- [ITSM Continuous Improvement](https://en.wikipedia.org/wiki/IT_service_management)
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)  
 
 The OODA loop describes the day-to-day of operations. Speed is always of paramount concern. If you can respond to changes in market conditions and customer wishes faster than your competitor you have an advantage. If you can change and improve your security posture faster than malicious actors can fabricate new attacks, you are more secure. While speed alone is not a silver bullet, without expedicious time to value the best application features and security solutions are for naught.
@@ -32,9 +32,9 @@ It is important to be clear what we mean by "speed". We do not mean speed at the
 How often your company can deploy updates to your IT services
 - Mean Time to Resolution (MTTR) is measured in minutes or seconds  
 How quickly can you restore full service if a failure occurs
-- Mean Time between Failure (MTBF)  
+- Mean Time between Failure (MTBF) is measured in weeks or months or years  
 How often do failures occur
-- Lead Time to Value  
+- Lead Time to Value is measured in hours or days  
 How quickly can a new feature or capability be delivered
 ## Practices of Speed
 - Version control of code and configuration
@@ -44,6 +44,9 @@ How quickly can a new feature or capability be delivered
 [What does this mean]Include security at the beginning of your process
 - Loosely coupled architecture
 - Pro-active notification
+## Use Cases
+- Update component to a new version
+- Update component configuration to a new version
 ## Implementation Concerns
 Turn Brownfield into Greenfield  
 [What does this mean?]
