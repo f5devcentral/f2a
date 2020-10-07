@@ -47,11 +47,36 @@ How quickly can a new feature or capability be delivered
 ## Use Cases
 - Update component to a new version
 - Update component configuration to a new version
+
+### Security Policy
+- Create
+- Update
+- Retire
+- Observe
+### Load Balancing
+- Create
+- Update
+- Retire
+- Observe
+### Certificates
+- Create
+- Update
+- Retire
+- Observe
+### Platform
+- Create
+- Update
+- Retire
+- Observe
+
 ## Implementation Concerns
 Turn Brownfield into Greenfield  
 [What does this mean?]
 
-
+## Architectures
+- Monolith / Traditional enterprise application
+- Microservices
+- Edge compute
 
 
 ## Support
