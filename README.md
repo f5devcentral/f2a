@@ -25,7 +25,7 @@ Synthesize with other lenses on IT Service Delivery and Lean business process ma
 - [ITSM Continuous Improvement](https://en.wikipedia.org/wiki/IT_service_management)
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)  
 
-The OODA loop describes the day-to-day of operations. Speed is always of paramount concern. If you can respond to changes in market conditions and customer wishes faster than your competitor you have an advantage. If you can change and improve your security posture faster than malicious actors can fabricate new attacks, you are more secure. While speed alone is not a silver bullet, without expedicious time to value the best application features and security solutions are for naught.
+The OODA loop describes the day-to-day of operations. Speed is always of paramount concern. If you can respond to changes in market conditions and customer wishes faster than your competitor you have an advantage. If you can change and improve your security posture faster than malicious actors can fabricate new attacks, you are more secure. While speed alone is not a silver bullet, without expeditious time to value the best application features and security solutions are for naught.
 ## Metrics of Speed
 It is important to be clear what we mean by "speed". We do not mean speed at the expense of exceptional customer experience. We mean that organizations see the following measurable results:
 - Deployment frequency is measured in times per day  
