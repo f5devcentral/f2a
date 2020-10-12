@@ -65,8 +65,9 @@ How quickly can a new feature or capability be delivered
 - Observe
 
 ## Implementation Concerns
-Turn Brownfield into Greenfield  
-[What does this mean?]
+- Brownfield  
+[Turn Brownfield into Greenfield](BROWN2GREEN.md) 
+
 
 ## Architectures
 - Monolith / Traditional enterprise application
