@@ -15,7 +15,7 @@ Synthesize with other lenses on IT Service Delivery and Lean business process ma
 - [ITSM Continuous Improvement](https://en.wikipedia.org/wiki/IT_service_management)
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop)  
 ## Installation
-We want to install the desire for Agile, or even better Antifragile, delivery of IT Services. Read the suggestions above. Study the architectures (as they're released and revised). And, [contribute](CONTRIBUTING.md)
+We want to install the desire for Agile, or even better Antifragile, delivery of IT Services in your brain. Read the suggestions above. Study the architectures (as they're released and revised). And, [contribute](CONTRIBUTING.md)
 ## Usage
 TBD
 ## Development
@@ -36,7 +36,7 @@ How quickly can a new feature or capability be delivered
 - Deployment automation
 - Test automation
 - Shift left on security  
-[What does this mean]Include security at the beginning of your process
+Include security at the beginning of your process
 - Loosely coupled architecture
 - Pro-active notification
 ## Use Cases
