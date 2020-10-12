@@ -40,29 +40,8 @@ Include security at the beginning of your process
 - Loosely coupled architecture
 - Pro-active notification
 ## Use Cases
-- Update component to a new version
-- Update component configuration to a new version
+Read [here](USECASES.md)
 
-### Security Policy
-- Create
-- Update
-- Retire
-- Observe
-### Load Balancing
-- Create
-- Update
-- Retire
-- Observe
-### Certificates
-- Create
-- Update
-- Retire
-- Observe
-### Platform
-- Create
-- Update
-- Retire
-- Observe
 
 ## Implementation Concerns
 - Brownfield  
