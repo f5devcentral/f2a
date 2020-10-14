@@ -1,4 +1,18 @@
 ## Overview
+In the 1960s ... Space race
+beat Russia to the moon
+
+the new Space race
+fast
+repeatable
+reusable
+cost effective
+no end state
+
+the next new space race
+vacation in space
+send people to another planet
+
 When delivering IT Services, speed is always of paramount concern. If you can respond to changes in market conditions and customer wishes faster than your competitor you have an advantage. If you can change and improve your security posture faster than malicious actors can fabricate new attacks, you are more secure. While speed alone is not a silver bullet, without expedicious time to value the best application features and security solutions are for naught.  
 
 In this repository, we will be iteratively developing the Fragile to Agile story. In addition, we will create IT Service architectures that show the key technical and process components of Agile delivery. And, to make it real, we will reference repositories that demonstrate implementations of the Agile architectures.
