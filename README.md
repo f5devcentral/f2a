@@ -7,7 +7,7 @@ Some reading is warranted to get started with Fragile to Agile.
 There may be additional documents that elaborate on details of the story. If you find additional reading, please send a pull request to update this list.
 
 - [Accelerate](https://itrevolution.com/book/accelerate/) by Nicole Forsgren, Jez Humble, and Gene Kim
-- [Antifragile](http://www.randomhousebooks.com/books/176227/) by Nassim Nicholas Taleb
+- [Antifragile](http://www.randomhousebooks.com/books/176227/) by Nassim Nicholas Taleb  
 Synthesize with other lenses on IT Service Delivery and Lean business process management  
 
 - [Deming Cycles](https://en.wikipedia.org/wiki/PDCA)
